@@ -173,3 +173,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .env
+startups_demo.json
+*.npy
+*.json
+*.jsonl
+*.jsonl*
+*.zip
+*.gz
